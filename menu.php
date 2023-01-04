@@ -9,7 +9,7 @@ echo "
           
                 <ul class='nav nav-pills'>
                   <li class='nav-item'><a href='accueil.php' class='nav-link active' aria-current='page'>Accueil</a></li>
-                  <li class='nav-item'><a href='#' class='nav-link'>Profil</a></li>
+                  <li class='nav-item'><a href='profil.php' class='nav-link'>Profil</a></li>
                   <li class='nav-item'><a href='bts.php' class='nav-link'>BTS SIO</a></li>
                   <li class='nav-item'><a href='#' class='nav-link'>Veille Technologique</a></li>
                   <li class='nav-item'><a href='#' class='nav-link'>Contact</a></li>
