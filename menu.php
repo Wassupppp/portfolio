@@ -12,7 +12,7 @@ echo "
                   <li class='nav-item'><a href='profil.php' class='nav-link'>Profil</a></li>
                   <li class='nav-item'><a href='bts.php' class='nav-link'>BTS SIO</a></li>
                   <li class='nav-item'><a href='#' class='nav-link'>Veille Technologique</a></li>
-                  <li class='nav-item'><a href='#' class='nav-link'>Contact</a></li>
+                  <li class='nav-item'><a href='contact.php' class='nav-link'>Contact</a></li>
                 </ul>
               </header>
             </div>
