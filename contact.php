@@ -1,121 +1,159 @@
-<!DOCTYPE html>
-    <html lang="fr">
-        <head>
-            <meta charset="utf-8">
-            <title> Portfolio - BTS SIO </title>
-            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-            <link href="contact.css" rel="stylesheet"> <!-- A VOIR SI JE GARDE -->
-            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-			<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700" rel="stylesheet">
-            <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
-		</head>
-        <body>
-            <?php include ("menu.php");?>
-            
-            <div class='div_test'>
-                <div id='image_bts'></div>
+<?php include("php/password_protect.php"); ?>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="flavicon.png">
+
+    <title>Portfolio | Ouassim Khaddioui</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+
+    <!-- Custom styles for this template -->
+    <link href="album.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <header>
+        <?php include("menu.php") ?>
+    </header>
+
+    <main role="main">
+
+      <section class="jumbotron text-center">
+        <div class="container">
+          <h2 class="jumbotron-heading">Contact</h2>
+          <p class="lead">Vous trouverez ci-dessous les différents projets que j'ai développé durant ces dernières années au niveau scolaire et professionnel.</p>
+          <p>
+            <a href="#presentation" class="btn btn-primary my-2">Go !</a>
+            <a href="#presentation" class="btn btn-secondary my-2">Go !</a>
+          </p>
+        </div>
+      </section>
+
+      <div id="presentation" class="album bg-light">
+        <h1 class="py-5"><span>Contactez-moi</span></h1>
+        <div class="container">
+            <!-- Grid row -->
+            <div class="row">
+          
+              <!-- Grid column -->
+              <div class="col-lg-5 mb-lg-0 mb-4">
+          
+                <!-- Form with header -->
+                <div class="card">
+                  <div class="card-body">
+                    <!-- Header -->
+                    <div class="form-header blue accent-1">
+                      <h3 class="mt-2"><i class="fa fa-envelope"></i> Contact:</h3>
+                    </div>
+                    <p class="dark-grey-text">Je vous répondrez dans les plus bref délais</p>
+                    <!-- Body -->
+                    <div class="md-form">
+                      <i class="fa fa-user prefix grey-text">
+                        <label for="form-name">Votre nom</label>
+                      </i>
+                      <input type="text" id="form-name" class="form-control">
+                    </div>
+                    <div class="md-form">
+                      <i class="fa fa-envelope prefix grey-text">
+                          <label for="form-email">Votre e-mail</label>
+                      </i>
+                      <input type="text" id="form-email" class="form-control">
+                    </div>
+                    <div class="md-form">
+                      <i class="fa fa-tag prefix grey-text">
+                        <label for="form-Subject">Objet</label>
+                      </i>
+                      <input type="text" id="form-Subject" class="form-control">
+                    </div>
+                    <div class="md-form">
+                      <i class="fas fa-pencil-alt">
+                        <label for="form-text">Message</label>
+                      </i>
+                      <textarea type="text" id="form-text" class="form-control md-textarea" rows="3"></textarea>
+                    </div>
+                    <div class="text-center">
+                      <button class="btn btn-light-blue">Envoyer</button>
+                    </div>
+                  </div>
+                </div>
+                <!-- Form with header -->
+          
+              </div>
+              <!-- Grid column -->
+          
+              <!-- Grid column -->
+              <div class="col-lg-7">
+          
+                <!--Google map-->
+                <div id="map-container-section" class="z-depth-1-half map-container-section mb-4" style="height: 400px">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d183863.34784407742!2d4.693168943781319!3d43.94147143510599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b5eb8739bc9d07%3A0xe6429b6efa1d7b36!2sAvignon!5e0!3m2!1sfr!2sfr!4v1544545127070" 
+                  frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+                <!-- Buttons-->
+                <div id="info-section" class="row text-center">
+                  <div class="col-md-4">
+                    <a class="btn-floating blue accent-1">
+                      <i class="fas fa-map-marked-alt info-ico"></i>
+                    </a>
+                    <p>Avignon 84000, <br/>France</p>
+                    <p class="mb-md-0"></p>
+                  </div>
+                  <div class="col-md-4">
+                    <a class="btn-floating blue accent-1">
+                      <i class="fa fa-phone info-ico"></i>
+                    </a>
+                    <p>+ 06 xx xx xx xx</p>
+                  </div>
+                  <div class="col-md-4">
+                    <a class="btn-floating blue accent-1">
+                      <i class="fa fa-envelope info-ico"></i>
+                    </a>
+                    <p>ouassim.khaddioui@gmail.com</p>
+                  </div>
+                </div>
+          
+              </div>
+              <!-- Grid column -->
+          
             </div>
+            <!-- Grid row -->
+          
+        </div>
+      </div>
 
-            <section class="ftco-section">
-		        <div class="container">
-			        <div class="row justify-content-center">
-				        <div class="col-md-6 text-center mb-5">
-					        <h2 class="heading-section">Formulaire de Contact</h2>
-				        </div>
-			        </div>
-			        <div class="row justify-content-center">
-				        <div class="col-lg-10 col-md-12">
-					        <div class="wrapper">
-						        <div class="row no-gutters">
-							        <div class="col-md-7 d-flex align-items-stretch">
-								        <div class="contact-wrap w-100 p-md-5 p-4">
-									        <h3 class="mb-4">Renseigner</h3>
-									        <div id="form-message-warning" class="mb-4"></div> 
-				      		                <div id="form-message-success" class="mb-4">
-				                                Le message a bien était envoyé, merci !
-				      		                </div>
-									        <form method="POST" id="contactForm" name="contactForm">
-										        <div class="row">
-											        <div class="col-md-6">
-												        <div class="form-group">
-													        <input type="text" class="form-control" name="name" id="name" placeholder="Nom">
-												        </div>
-											        </div>
-											        <div class="col-md-6"> 
-												        <div class="form-group">
-													        <input type="email" class="form-control" name="email" id="email" placeholder="Email">
-												        </div>
-											        </div>
-											        <div class="col-md-12">
-												        <div class="form-group">
-													        <input type="text" class="form-control" name="subject" id="subject" placeholder="Sujet">
-												        </div>
-											        </div>
-											        <div class="col-md-12">
-												        <div class="form-group">
-													        <textarea name="message" class="form-control" id="message" cols="30" rows="7" placeholder="Message"></textarea>
-												        </div>
-											        </div>
-											        <div class="col-md-12">
-												        <div class="form-group">
-													        <input type="submit" value="Send Message" class="btn btn-primary">
-													        <div class="submitting"></div>
-												        </div>
-											        </div>
-										        </div>
-									        </form>
-								        </div>
-							        </div>
-							        <div class="col-md-5 d-flex align-items-stretch">
-								        <div class="info-wrap bg-primary w-100 p-lg-5 p-4">
-									        <h3 class="mb-4 mt-md-4">Mon contact   <i style="font-size:24px" class="fa">&#xf1ae;</i></h3>
-				        	                <div class="dbox w-100 d-flex align-items-start">
-				        		                <div class="icon d-flex align-items-center justify-content-center">
-				        			                <span class="fa fa-map-marker"></span>
-				        		                </div>
-				        		                <div class="text pl-3">
-					                                <p><span>Address:</span> 252 Rue Nextech, 90000 PERTUIS</p>
-					                            </div>
-				                            </div>
-				        	                <div class="dbox w-100 d-flex align-items-center">
-				        		                <div class="icon d-flex align-items-center justify-content-center">
-				        			                <span class="fa fa-phone"></span>
-				        		                </div>
-				        		                <div class="text pl-3">
-					                                <p><span>Phone:</span> <a href="tel://1234567920">+ 0775852696</a></p>
-					                            </div>
-				                            </div>
-                                            <div class="dbox w-100 d-flex align-items-center">
-                                                <div class="icon d-flex align-items-center justify-content-center">
-                                                    <span class="fa fa-paper-plane"></span>
-                                                </div>
-                                                <div class="text pl-3">
-                                                    <p><span>Email:</span> <a href="mailto:info@yoursite.com">ouassim.postbac@gmail.com</a></p>
-                                                </div>
-                                            </div>
-                                            <div class="dbox w-100 d-flex align-items-center">
-                                                <div class="icon d-flex align-items-center justify-content-center">
-                                                    <span class="fa fa-globe"></span>
-                                                </div>
-                                                <div class="text pl-3">
-                                                    <p><span>Website</span> <a href="#">wassupolio.com</a></p>
-                                                </div>
-                                            </div>
-			                            </div>
-							        </div>
-						        </div>
-					        </div>
-				        </div>
-			        </div>
-		        </div>
-	        </section>
+    </main>
 
-            <script src="js/jquery.min.js"></script>
-            <script src="js/popper.js"></script>
-            <script src="js/bootstrap.min.js"></script>
-            <script src="js/jquery.validate.min.js"></script>
-            <script src="js/main.js"></script>
+    <footer>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4">
+                <p>&copy; 2023 Ouassim KHADDIOUI</p>
+            </div>
+            <div style="text-align: right;" class="col-md-4 offset-md-4">
+                <a href="#">Back to top</a>
+            </div>
+          </div>
+        </div>
+      </footer>
 
-            <?php include ("footer.php");?>
-        </body>    
-    </html>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="assets/js/vendor/popper.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script src="assets/js/vendor/holder.min.js"></script>
+    <script src="index.js"></script>
+
+  </body>
+</html>

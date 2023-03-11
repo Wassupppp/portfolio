@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@-webkit-keyframes pulse {
+    0%   { -webkit-transform: scale(1); opacity: 1; }
+    70%  { -webkit-transform: scale(5); opacity: 0; }
+    100% { -webkit-transform: scale(1); opacity: 0; }
+}
+
+@-ms-keyframes pulse {
+    0%   { -ms-transform: scale(1); opacity: 1; }
+    70%  { -ms-transform: scale(5); opacity: 0; }
+    100% { -ms-transform: scale(1); opacity: 0; }
+}
+
+@keyframes pulse {
+    0%   { transform: scale(1); opacity: 1; }
+    70%  { transform: scale(5); opacity: 0; }
+    100% { transform: scale(1); opacity: 0; }
+}
+
+html,body {
+  background: linear-gradient(135deg,#24324c 0,#16405d 100%);
+}
+.myappuccino-container {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.myappuccino-container h1 {
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  margin-top: 10px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  position: relative;
+  z-index: 1;
+  text-shadow: 0px 2px 2px rgba(0,0,0,0.2);
+}
+.myappuccino-container svg {
+  position: relative;
+  z-index: 1;
+}
+.myappuccino-container div.pulse {
+  position: absolute;
+  top: 0;
+  left: 0; 
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+.myappuccino-container div.pulse::before {
+    background-color: rgba(0,0,0,0.2);
+    content: '';
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    -webkit-animation: pulse 2s infinite;
+    -moz-animation: pulse 2s infinite;
+    -ms-animation: pulse 2s infinite;
+    animation: pulse 2s infinite;
+}
