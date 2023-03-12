@@ -27,12 +27,7 @@
 
       <section class="jumbotron text-center">
         <div class="container">
-          <h2 class="jumbotron-heading">Application Covoiturage</h2>
-          <p class="lead">Vous trouverez ci-dessous les différents projets que j'ai développé durant ces dernières années au niveau scolaire et professionnel.</p>
-          <p>
-            <a href="#presentation" class="btn btn-primary my-2">Go !</a>
-            <a href="#presentation" class="btn btn-secondary my-2">Go !</a>
-          </p>
+          <h2 class="jumbotron-heading">Application Client Leger : Fast Sushi</h2>
         </div>
       </section>
 
@@ -41,27 +36,36 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="py-5 my-5"><span>Login</span></h1>
-              <img src="images/E4/login.PNG" width="100%" />
+              <img src="images/fast_sushi/connexion_fs.PNG" width="100%" />
             </div>
             <div class="col-md-12">
                 <h1 class="py-5 my-5"><span>Accueil</span></h1>
-              <img src="images/E4/accueil.PNG" width="100%" />
+              <img src="images/fast_sushi/accueil1.PNG" width="100%" />
             </div>
             <div class="col-md-12">
-                <h1 class="py-5 my-5"><span>Compléter profile</span></h1>
-              <img src="images/E4/completeProfile.PNG" width="100%" />
+                
+              <img src="images/fast_sushi/accueil2.PNG" width="100%" />
             </div>
             <div class="col-md-12">
-                <h1 class="py-5 my-5"><span>Proposer nouveau trajet</span></h1>
-              <img src="images/E4/newTrajet.PNG" width="100%" />
+              <img src="images/fast_sushi/accueil3.PNG" width="100%" />
             </div>
             <div class="col-md-12">
-                <h1 class="py-5 my-5"><span>Mes trajets et réservations</span></h1>
-              <img src="images/E4/trajetReservation.PNG" width="100%" />
+                <h1 class="py-5 my-5"><span>Inscription</span></h1>
+              <img src="images/fast_sushi/inscription_fs.PNG" width="100%" />
             </div>
             <div class="col-md-12">
-                <h1 class="py-5 my-5"><span>Paramètres</span></h1>
-              <img src="images/E4/parametre.PNG" width="100%" />
+                <h1 class="py-5 my-5"><span>Menu</span></h1>
+              <img src="images/fast_sushi/menu_ingredient.PNG" width="100%" />
+            </div>
+            <div class="col-md-12">
+              <img src="images/fast_sushi/menu_sushi.PNG" width="100%" />
+            </div>
+            <div class="col-md-12">
+              <img src="images/fast_sushi/menu_dessert.PNG" width="100%" />
+            </div>
+            <div class="col-md-12">
+                <h1 class="py-5 my-5"><span>Contact</span></h1>
+              <img src="images/fast_sushi/contact.PNG" width="100%" />
             </div>
           </div>
         </div>

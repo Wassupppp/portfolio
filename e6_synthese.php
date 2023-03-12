@@ -30,8 +30,8 @@
           <h2 class="jumbotron-heading">Tableau de synthèse</h2>
           <p class="lead">Il regroupe des situation effectués en entreprise ou au CFA ainsi que toutes les compétences mis en oeuvre lors de cette situation.</p>
           <p>
-              <a href="BTS_SIO_E6_tableau_synthèse SLAM.xls" class="btn btn-primary my-2">Version XLS</a>
-              <a href="BTS_SIO_E6_tableau_synthèse SLAM.pdf" class="btn btn-secondary my-2">Version PDF</a>
+              <a href="tableau_synthese_2023.xlsx" class="btn btn-primary my-2">Version XLS</a>
+              <a href="tableau_E4.pdf" class="btn btn-secondary my-2">Version PDF</a>
           </p>
         </div>
       </section>
@@ -45,7 +45,7 @@
                   le tableau de synthèse (ci-dessous) dans la section <a href="act_pro.php">Activités > Professionnelles</a>
                 </p>
             <div class="col-md-6 offset-md-1">
-                <embed src="BTS_SIO_E6_tableau_synthèse SLAM.pdf" width=900 height=600 type='application/pdf'/>
+                <embed src="tableau_E4.pdf" width=900 height=600 type='application/pdf'/>
             </div>
             <div class="col-md-12">
               <ul>

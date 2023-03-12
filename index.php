@@ -23,16 +23,12 @@
     </header>
 
     <main role="main">
-
       <section class="jumbotron text-center">
         <div class="container">
           <h2 class="jumbotron-heading">Portfolio | BTS SIO SLAM </h2>
           <p class="lead">Bienvenue sur mon portfolio,vous trouverez sur différentes sections toutes les informations à mon sujet.</p>
           <p class="lead">2022 - 2023</p>
-          <p>
-            <a href="#presentation" class="btn btn-primary my-2">Go !</a>
-            <a href="#presentation" class="btn btn-secondary my-2">Go !</a>
-          </p>
+        
         </div>
       </section>
       <!-------<PRESENTATION>--------------------------------------------------------------->
@@ -40,7 +36,7 @@
         <div class="container">
           <div class="row justify-content-md-center text-center">
             <div class="col-lg-12">
-                <img data-aos="fade-right" class="rounded-circle" src="images/0.PNG" alt="Generic placeholder image" width="140" height="140">
+                <img data-aos="fade-right" class="rounded-circle" src="images/0.PNG" alt="Generic placeholder image" width="140" height="180">
                 <h1 class="py-5 mt-5" data-aos="fade-right"><span>Ouassim KHADDIOUI</span></h1>
                 <p class="lead"  data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">Développeur en formation d'apprentissage dans l'entreprise Antibia 
                   ce site est un Portfolio pour valider mon diplôme BTS SIO (Services Informatiques aux Organisations) option SLAM 
@@ -447,7 +443,9 @@
         </div>
       </div>
       <!-------</CURSUS>--------------------------------------------------------------->
-
+          <p>
+              <a href="CV OUASS.pdf" class="btn btn-primary my-2" style="margin-left:45%">Visualisez CV</a>
+          </p>
       <!-------<PRESENTATION ENTREPRISE>----------------------------------------------->
       <div id="presentationEntreprise">
         <h1 class="py-5 mt-5" data-aos="fade-right"><span>Presentation entreprise</span></h1>
@@ -487,11 +485,11 @@
             <!--<div class="col-md-6" data-aos="fade-left"><img width="90%" src="images/unigrid/mobyscan.jpg" class="rounded mx-auto d-block" /></div>-->
           </div>
           <h3 class="mt-5" data-aos="fade-right">Image 1</h3>
-          <img src="images/unigrid/planDeMasse.jpg" data-aos="fade-right" width="100%" class="mb-5"/>
+        <!--  <img src="images/unigrid/planDeMasse.jpg" data-aos="fade-right" width="100%" class="mb-5"/>-->
           <h3 class="mt-5" data-aos="fade-right">Image 2</h3>
-          <img src="images/unigrid/wespcivfinal.png" data-aos="fade-right" width="100%"/>
+          <!--<img src="images/unigrid/wespcivfinal.png" data-aos="fade-right" width="100%"/>-->
           <h3 class="mt-5" data-aos="fade-right">Image 3</h3>
-          <img src="images/unigrid/wesio5bob.png" data-aos="fade-right" width="100%" />
+         <!-- <img src="images/unigrid/wesio5bob.png" data-aos="fade-right" width="100%" />-->
           
           
         </div>

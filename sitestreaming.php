@@ -28,32 +28,20 @@
       <section class="jumbotron text-center">
         <div class="container">
           <h2 class="jumbotron-heading">Activités scolaire</h2>
-          <p class="lead">Vous trouverez ci-dessous les différents projets que j'ai développé durant ces dernières années au niveau scolaire.</p>
+          <p class="lead">Vous trouverez ci-dessous les différents projets que j'ai développé durant ces dernières années au niveau scolaire et professionnel.</p>
         </div>
       </section>
-
-      <div id="presentation" class="album py-5 bg-light">
-        <div class="container">
-
-          <div class="row">
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="images/projetecole1/connexion.PNG" alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text"> Site streaming permettant une gestion des serie en cours.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <!--<button type="button" class="btn btn-sm btn-outline-secondary">View</button>-->
-                      <a href="sitestreaming.php" class="btn btn-sm btn-outline-secondary">View</a>
-                    </div>
-                   
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <h3 class="ml-5 py-5" data-aos="fade-right">Site Streaming - Gestion des séries en cours</h3>
+      <h3 class="mt-5" data-aos="fade-right">Page de connection</h3>
+          <img src="images/projetecole1/connexion.png" data-aos="fade-right" width="100%" class="mb-5"/>
+          <h3 class="mt-5" data-aos="fade-right">Accueil</h3>
+          <img src="images/projetecole1/accueil.png" data-aos="fade-right" width="100%"/>
+          <h3 class="mt-5" data-aos="fade-right">Serie en cours</h3>
+          <img src="images/projetecole1/serie_dispo.png" data-aos="fade-right" width="100%" />
+          <h3 class="mt-5" data-aos="fade-right">Ajout d'une serie</h3>
+          <img src="images/projetecole1/modif_serie.png" data-aos="fade-right" width="100%" />
+          <h3 class="mt-5" data-aos="fade-right">Page paramètre</h3>
+          <img src="images/projetecole1/parametre.png" data-aos="fade-right" width="100%" />
 
     </main>
 

@@ -28,11 +28,7 @@
       <section class="jumbotron text-center">
         <div class="container">
           <h2 class="jumbotron-heading">Veille technologique</h2>
-          <p class="lead">Vous retrouverez, ci-dessous, mes méthodes de recherche de ma veille technologique sur le sujet de la reconnaissance faciale, des mouvements, par un système informatique ou IA</p>
-          <p>
-            <a href="#presentation" class="btn btn-primary my-2">Go !</a>
-            <a href="#presentation" class="btn btn-secondary my-2">Go !</a>
-          </p>
+          <p>Symfony</p>
         </div>
       </section>
 
@@ -40,7 +36,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-12 text-center">
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRRVCAKpQ_EamtXE-7fsjLCV451MtqzPmJXS0XKwtsL86VrwD1D09UJnW_7DVIbLdIOA8ifAzynS7L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>            </div>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxND5yi-amKRJUhuB3tQrZNT4gwIo9bOc3g7NwxQYIohvA064PpaKe4Kq5qk8qLLHNXltXwa4FDT1v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>            </div>
             <!-- <div class="col-md-12">
                 <h1 class="fancy py-5"><span>Détection et reconnaissance faciale</span></h1>
                 <p class="lead">

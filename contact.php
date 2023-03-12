@@ -30,11 +30,7 @@
       <section class="jumbotron text-center">
         <div class="container">
           <h2 class="jumbotron-heading">Contact</h2>
-          <p class="lead">Vous trouverez ci-dessous les différents projets que j'ai développé durant ces dernières années au niveau scolaire et professionnel.</p>
-          <p>
-            <a href="#presentation" class="btn btn-primary my-2">Go !</a>
-            <a href="#presentation" class="btn btn-secondary my-2">Go !</a>
-          </p>
+          <p class="lead">Cette page vous permettras de me contacter.</p>
         </div>
       </section>
 
