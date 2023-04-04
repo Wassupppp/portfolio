@@ -16,8 +16,11 @@ echo " <nav class='navbar fixed-top navbar-expand-lg navbar-light bg-transparent
           Activités
       </a>
       <div class='dropdown-menu' aria-labelledby='navbarDropdown'>
-        <a class='dropdown-item' href='act_pro.php'>Professionnels</a>
-        <a class='dropdown-item' href='act_sco.php'>Scolaire</a>
+        <a class='dropdown-item' href='situation_xml.php'>Situations XML</a>
+        <a class='dropdown-item' href='situation_observation.php'>Situations Observations</a>
+        <a class='dropdown-item' href='act_sco.php'>Gestion sauvegarde des applications</a>
+        <a class='dropdown-item' href='sitestreaming.php'>Site Streaming</a>
+        <a class='dropdown-item' href='act_sco.php'>SEO</a>
       </div>
     </li>
   
