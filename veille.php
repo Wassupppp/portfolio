@@ -36,34 +36,8 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-12 text-center">
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxND5yi-amKRJUhuB3tQrZNT4gwIo9bOc3g7NwxQYIohvA064PpaKe4Kq5qk8qLLHNXltXwa4FDT1v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>            </div>
-            <!-- <div class="col-md-12">
-                <h1 class="fancy py-5"><span>Détection et reconnaissance faciale</span></h1>
-                <p class="lead">
-                  Un système de reconnaissance faciale est une application logicielle du domaine de la <a href="https://fr.wikipedia.org/wiki/Vision_par_ordinateur">vision par ordinateur</a> 
-                  visant à reconnaître une personne à partir d'une image de son visage de manière automatique. C'est un sujet particulèrement étudié en vision par ordinateur, et très actif avec de très
-                  nombreuses nouveautés, publications, brevets, et des conférences spécialisées. Elle chamboule aussi le domaine juridique car de très nombreux points sont à anticiper en termes de droits
-                  à l'image, et autres (voir <a href="#legislation">section législation</a>).
-                </p>
-                <p class="lead">
-                    La reconnaissance faciale permet d’adapter la vérification biométrique à toutes les situations - C'est une technologie très efficace qui est utilisée dans de nombreuses 
-                    applications liées à la sécurité. Elle est par exemple un outil très fiable pour aider les forces de police à identifier des criminels, ou bien pour permettre aux services 
-                    de douanes de vérifier l’identité des voyageurs. La reconnaissance faciale est peu invasifs car sans contact en comparaison avec les autres systèmes biométriques (empreintes digitales, 
-                    reconnaissance de l'iris...) et son utilisation ne nécessite aucun outil spécifique, ce qui en fait la solution idéale pour l’identification de personnes dans une foule ou dans 
-                    des espaces publics. 
-                </p>
-                <p class="lead">
-                    Actuellement, la reconnaissance faciale est d'ores et déjà mise en place dans deux nombreux domaines. Elle permet par exemple de sécuriser des transactions 
-                    en ligne; de déverrouiller ordinateur / mobile / console. Le fonctionnement de ces systèmes se base sur une ou plusieurs caméras pour reconnaître l'utilisateur.
-                </p>
-                <p class="lead">Ils peuvent également être utilisés afin de faciliter la vie de l'utilisateur, comme le font par exemple certains réseaux sociaux 
-                  sur internet (Facebook1, Google+ 2) ou certaines applications mobiles (NameTag3, FaceRec 4) pour identifier des visages sur des images.
-                  Ces systèmes se basent alors sur des photos/vidéos d'une ou plusieurs personnes.
-                </p>
-                <p class="lead">Il faut toutefois veiller à ne pas confondre la détection de visage, qui consiste à repérer qu'un visage est présent sur une image, 
-                  et la reconnaissance faciale, qui consiste à reconnaître quelqu'un depuis une image ou une vidéo.
-                </p>
-            </div> -->
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxND5yi-amKRJUhuB3tQrZNT4gwIo9bOc3g7NwxQYIohvA064PpaKe4Kq5qk8qLLHNXltXwa4FDT1v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            </div>
           </div>
         </div>
       </div>

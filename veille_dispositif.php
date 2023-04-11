@@ -66,9 +66,9 @@ include("php/password_protect.php"); ?>
                     <td><a href="https://blog.sensiolabs.com/fr/2021/12/01/symfony-6-interview-nicolas-grekas/#:~:text=La%20grande%20nouveaut%C3%A9%20de%20Symfony,les%20nouvelles%20fonctionnalit%C3%A9s%20du%20langage.">https://blog.sensiolabs.com/fr/2021/12/01/symfony-6-interview-nicolas-grekas/#:~:text=La%20grande%20nouveaut%C3%A9%20de%20Symfony,les%20nouvelles%20fonctionnalit%C3%A9s%20du%20langage.</a></td>
                   </tr>
                   <tr>
-                    <td>grafikart.fr</td>
+                    <td>easypartner.fr</td>
                     <td>Les nouveautés Symfony</td>
-                    <td><a href="https://grafikart.fr/tutoriels/symfony-4-nouveautes-970">https://grafikart.fr/tutoriels/symfony-4-nouveautes-970</a></td>
+                    <td><a href="https://easypartner.fr/blog/symfony-6-quelles-sont-les-nouveautes-de-la-derniere-version/">https://easypartner.fr/blog/symfony-6-quelles-sont-les-nouveautes-de-la-derniere-version/</a></td>
                   </tr>
                   <tr>
                     <td>twitter.fr</td>
@@ -126,71 +126,7 @@ include("php/password_protect.php"); ?>
               </p>
               <img width="45%" src="images/veille/joomla_Twitter.PNG" class="rounded mx-auto d-block"/>
               
-            
             </div>
-
-            <!-- <table class="table table-hover">
-              <thead>
-                <tr>
-                  <th scope="col">Date</th>
-                  <th scope="col">Site</th>
-                  <th scope="col">Sujet</th>
-                  <th scope="col">Lien</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <th scope="row">11/12/2018</th>
-                  <td>orange.com</td>
-                  <td>IA : la reconnaissance faciale est-elle raciste ?</td>
-                  <td>
-                    <a href="https://digital-society-forum.orange.com/fr/les-actus/1166-ia-quand-la-reconnaissance-faciale-a-des-biais-racistes">
-                      https://digital-society-forum.orange.com/fr/les-actus/1166-ia-quand-la-reconnaissance-faciale-a-des-biais-racistes
-                    </a>
-                  </td>
-                </tr>
-                <tr>
-                  <th scope="row">06/12/2018</th>
-                  <td>fr.rbth.com</td>
-                  <td>Un système de reconnaissance faciale russe fait ses preuves dans la traque aux criminels</td>
-                  <td>
-                    <a href="https://fr.rbth.com/tech/82004-russie-reconnaissance-faciale-ntechlab">
-                      https://fr.rbth.com/tech/82004-russie-reconnaissance-faciale-ntechlab
-                    </a>
-                  </td>
-                </tr>
-                <tr>
-                  <th scope="row">07/12/2018</th>
-                  <td>europe1.fr</td>
-                  <td>Microsoft adopte des principes de régulation et appelle à légiférer</td>
-                  <td>
-                    <a href="https://www.europe1.fr/technologies/reconnaissance-faciale-microsoft-adopte-des-principes-de-regulation-et-appelle-a-legiferer-3815531">
-                      https://www.europe1.fr/technologies/reconnaissance-faciale-microsoft-adopte-des-principes-de-regulation-et-appelle-a-legiferer-3815531
-                    </a>
-                  </td>
-                </tr>
-                <tr>
-                  <th scope="row">19/07/2018</th>
-                  <td>cnetfrance.fr</td>
-                  <td>Comment la reconnaissance faciale révolutionne les aéroports</td>
-                  <td>
-                    <a href="https://www.cnetfrance.fr/news/fini-les-passeports-comment-la-reconnaissance-faciale-revolutionne-les-aeroports-39871461.htm">
-                      https://www.cnetfrance.fr/news/fini-les-passeports-comment-la-reconnaissance-faciale-revolutionne-les-aeroports-39871461.htm
-                    </a>
-                  </td>
-                </tr>
-                <tr>
-                  <th scope="row">16/04/2018</th>
-                  <td>sciencesetavenir.fr</td>
-                  <td>Reconnaissance facial en Chine</td>
-                  <td>
-                    <a href="https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/en-chine-la-reconnaissance-faciale-est-deja-omnipresente_123072">
-                      https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/en-chine-la-reconnaissance-faciale-est-deja-omnipresente_123072
-                    </a>
-                  </td>
-                </tr>
-              </tbody>
-            </table> -->
           </div>
         </div>
       </div>

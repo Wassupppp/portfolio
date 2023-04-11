@@ -16,9 +16,9 @@ echo " <nav class='navbar fixed-top navbar-expand-lg navbar-light bg-transparent
           Activités
       </a>
       <div class='dropdown-menu' aria-labelledby='navbarDropdown'>
-        <a class='dropdown-item' href='situation_xml.php'>Situations XML</a>
         <a class='dropdown-item' href='situation_observation.php'>Situations Observations</a>
-        <a class='dropdown-item' href='act_sco.php'>Gestion sauvegarde des applications</a>
+        <a class='dropdown-item' href='gestionnaire_sauvegarde.php'>Gestion de sauvegarde</a>
+        <a class='dropdown-item' href='situation_xml.php'>Situations XML</a>
         <a class='dropdown-item' href='sitestreaming.php'>Site Streaming</a>
         <a class='dropdown-item' href='act_sco.php'>SEO</a>
       </div>
@@ -29,7 +29,7 @@ echo " <nav class='navbar fixed-top navbar-expand-lg navbar-light bg-transparent
           Epreuve E5
       </a>
       <div class='dropdown-menu' aria-labelledby='navbarDropdown'>
-        <a class='dropdown-item' href='e4.php'>Projet FastSushi</a>
+        <a class='dropdown-item' href='e5.php'>Projet FastSushi</a>
       </div>
     </li>
 

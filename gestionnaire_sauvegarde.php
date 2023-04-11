@@ -27,33 +27,29 @@
 
       <section class="jumbotron text-center">
         <div class="container">
-          <h2 class="jumbotron-heading">Activités Professionnelles</h2>
-          <p class="lead">
-                            <h5>Situation : </h5>
+          <h2 class="jumbotron-heading">Gestionnaire de sauvegarde</h2>
+          <p class="lead"><h5>Situation : </h5>
                           <ul>
-                            <li><i>Participation à la résolution de ticket faîtes par le client.</i></li>
-                            <li><i>Demande de maintenance, évolution ou correction.</i></li>
+                            <li><i>Gérer le patrimoine informatique</i></li>
                           </ul>
                         </li>
                         <h5>Compétences mises en œuvre :</h5>
                           <ul>
-                            <li><i>Collecter, suivre et orienter des demandes.</i></li>
-                            <li><i>Traiter des demandes concernant les services réseau et système, applicatifs</i></li>
-                            <li><i>Traiter des demandes concernant les applications </i></li>
+                            <li><i>Gérer des sauvegardes<i></li>
                           </ul>
-                        </li>
+                        </p>
         </div>
       </section>
-      <h3 class="ml-5 py-5" data-aos="fade-right">Situation d'évolution d'une application</h3>
-      <h3 class="mt-5" data-aos="fade-right">Fiche d'amélioration </h3>
-          <img src="images/FL_observation.PNG" data-aos="fade-right" width="50%" class="mb-5"/>
-          <h3 class="mt-5" data-aos="fade-right">Application RH </h3>
-          <img src="images/observation2.PNG" data-aos="fade-right" width="30%"/>
-          <h3 class="mt-5" data-aos="fade-right">Ajout d'un filtre</h3>
-          <img src="images/avancement_automatique.PNG" data-aos="fade-right" width="30%"/>
-          <h3 class="mt-5" data-aos="fade-right">Resultat</h3>
-          <img src="images/resultat.PNG" data-aos="fade-right" width="70%"/>
-        
+      <h3 class="ml-5 py-5" data-aos="fade-right">Gestion de Sauvegarde</h3>
+      <h3 class="mt-5" data-aos="fade-right">- Création .bat</h3>
+          <img src="images/bat.png" data-aos="fade-right" width="100%" class="mb-5"/>
+          <h3 class="mt-5" data-aos="fade-right">Taches planifié</h3>
+          <img src="images/tache1.png" data-aos="fade-right" width="60%"/>
+          <!-- <h3 class="mt-5" data-aos="fade-right">Serie en cours</h3> -->
+          <img src="images/tahce2.png" data-aos="fade-right" width="60%" />
+          <!-- <h3 class="mt-5" data-aos="fade-right">Ajout d'une serie</h3> -->
+          <img src="images/tache3.png" data-aos="fade-right" width="60%" />
+
     </main>
 
     <footer>
@@ -62,6 +58,8 @@
             <div class="col-md-4">
                 <p>&copy; 2023 Ouassim KHADDIOUI</p>
             </div>
+            <a target="_blank" href="https://www.linkedin.com/in/ouassim-khaddioui-240445222/"><img style="width:25px;height:25px"src="images/linkedin.png"></a>
+
             <div style="text-align: right;" class="col-md-4 offset-md-4">
                 <a href="#">Back to top</a>
             </div>

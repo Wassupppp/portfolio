@@ -31,7 +31,7 @@
           <p class="lead">Il regroupe des situation effectués en entreprise ou au CFA ainsi que toutes les compétences mis en oeuvre lors de cette situation.</p>
           <p>
               <a href="tableau_synthese_2023.xlsx" class="btn btn-primary my-2">Version XLS</a>
-              <a href="tableau_E4.pdf" class="btn btn-secondary my-2">Version PDF</a>
+              <a href="tableau_synthese_2023.pdf" class="btn btn-secondary my-2">Version PDF</a>
           </p>
         </div>
       </section>
@@ -40,12 +40,9 @@
         <h1 class="py-5"><span>Tableau de synthèse</span></h1>
         <div class="container">
           <div class="row">
-              <p>Vous pouvez retrouver tout les documents liés aux 
-                  différentes situatiuon professionnelles inscrite dans 
-                  le tableau de synthèse (ci-dessous) dans la section <a href="act_pro.php">Activités > Professionnelles</a>
-                </p>
+             
             <div class="col-md-6 offset-md-1">
-                <embed src="tableau_E4.pdf" width=900 height=600 type='application/pdf'/>
+                <embed src="tableau_synthese_2023.pdf" width=900 height=600 type='application/pdf'/>
             </div>
             <div class="col-md-12">
               <ul>
@@ -85,23 +82,28 @@
                 </li>
                 <li><h2>Situation vécues ou observées en stage de deuxième année</h2>
                   <ul>
-                    <li><h3 class="py-3">Installation et configuration d'un Wespci</h3>
-                      <ul>
-                        <li><h5>Situation : </h5>
-                          <ul>
-                            <li><i>Création d'un site portfolio</i></li>
-                          </ul>
-                        </li>
-                        <li><h5>Compétences mises en œuvre :</h5>
-                          <ul>
-                            <li><i>Mettre en place son environnement d'apprentissage personnel</i></li>
-                            <li><i>Mettre en oeuvre des outils et stratégies de vieille informationnelle</i></li>
-                            <li><i>Gérer son identité professionnelle</i></li>
-                            <li><i>Développer son projet professionnel</i></li>
-                          </ul>
-                        </li>
-                      </ul>
+                    <li>
+                      <h2 class="py-3">Portfolio</h2>
+                      <li>
+                        <h5>Situation : </h5>
+                        <ul>
+                          <li>
+                            <i>Création d'un site portfolio</i>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>Compétences mises en œuvre :</h5>
+                        <ul>
+                          <li><i>Mettre en place son environnement d'apprentissage personnel</i></li>
+                          <li><i>Mettre en oeuvre des outils et stratégies de vieille informationnelle</i></li>
+                          <li><i>Gérer son identité professionnelle</i></li>
+                          <li><i>Développer son projet professionnel</i></li>
+                        </ul>
+                      </li>
                     </li>
+                  </ul>
+                   
                     <li><h3 class="py-3">Site streaming</h3>
                       <ul>
                         <li><h5>Situation : </h5>
@@ -117,6 +119,23 @@
                         </li>
                       </ul>
                     </li>
+                   
+                        <li><h2 class="py-3">Application Client Leger : Fast Sushi</h2>
+                            <h5>Situation : </h5>
+                            <ul>
+                              <li><i>Création d'un site, avec gestion de base de données pour établir des commandes de sushi</i></li>
+                            </ul>
+                          </li>
+                          <h5>Compétences mises en œuvre :</h5>
+                            <ul>
+                              <li><i>Analyser les objectifs et les modalités d'organisation d'un projet</i></li>
+                              <li><i>Planifier les activités.</i></li>
+                              <li><i>Evaluer les indicateurs de suivi d'un projet et analyser les écarts.</i></li>
+                              <li><i>Déployer un service</i></li>
+                              <li><i>Participer à l'évolution d'un site Web exploitant les données de l'organisation</i><li>
+                            </ul>
+                          </li>
+                        </li>
                     <li><h3 class="py-3">SEO</h3>
                       <ul>
                         <li><h5>Situation : </h5>
