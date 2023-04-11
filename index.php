@@ -503,6 +503,8 @@
             <div class="col-md-4">
                 <p>&copy; 2023 Ouassim KHADDIOUI</p>
             </div>
+            <a target="_blank" href="https://www.linkedin.com/in/ouassim-khaddioui-240445222/"><img style="width:25px;height:25px"src="images/linkedin.png"></a>
+
             <div style="text-align: right;" class="col-md-4 offset-md-4">
                 <a href="#">Back to top</a>
             </div>

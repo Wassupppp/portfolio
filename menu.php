@@ -32,10 +32,10 @@ echo " <nav class='navbar fixed-top navbar-expand-lg navbar-light bg-transparent
 
     <li class='nav-item dropdown'>
       <a class='nav-link dropdown-toggle' href='#' id='navbarDropdown' role='button' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-          Epreuve E6
+          Epreuve E4
       </a>
       <div class='dropdown-menu' aria-labelledby='navbarDropdown'>
-        <a class='dropdown-item' href='e6_competence.php'>Compétences</a>
+        
         <a class='dropdown-item' href='e6_synthese.php'>Tableau de synthèse</a>
       </div>
     </li>
