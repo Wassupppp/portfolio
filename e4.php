@@ -28,6 +28,21 @@
       <section class="jumbotron text-center">
         <div class="container">
           <h2 class="jumbotron-heading">Application Client Leger : Fast Sushi</h2>
+          <h5>Situation : </h5>
+            <ul>
+              <li><i>Travailler en mode projet</i></li>
+              <li><i>Mettre à disposition des utilisateurs un service informatique</i></li>
+            </ul>
+          </li>
+          <h5>Compétences mises en œuvre :</h5>
+            <ul>
+              <li><i>Analyser les objectifs et les modalités d'organisation d'un projet</i></li>
+              <li><i>Planifier les activités.</i></li>
+              <li><i>Evaluer les indicateurs de suivi d'un projet et analyser les écarts.</i></li>
+              <li><i>Déployer un service</i></li>
+            </ul>
+          </li>
+        
         </div>
       </section>
 

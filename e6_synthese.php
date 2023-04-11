@@ -76,8 +76,7 @@
                         <li><h5>Compétences mises en œuvre :</h5>
                           <ul>
                             <li><i>Collecter, suivre et orienter des demandes.</i></li>
-                            <li><i>Traiter des demandes concernant les services réseau et système, applicatifs</i></li>
-                            <li><i>Traiter des demandes concernant les applcations </i></li>
+                            <li><i>Traiter des demandes concernant les applications </i></li>
                           </ul>
                         </li>
                       </ul>

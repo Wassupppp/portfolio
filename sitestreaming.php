@@ -27,8 +27,19 @@
 
       <section class="jumbotron text-center">
         <div class="container">
-          <h2 class="jumbotron-heading">Activités scolaire</h2>
-          <p class="lead">Vous trouverez ci-dessous les différents projets que j'ai développé durant ces dernières années au niveau scolaire et professionnel.</p>
+          <h2 class="jumbotron-heading">Site Streaming</h2>
+          <p class="lead"><h5>Situation : </h5>
+                          <ul>
+                            <li><i>Travailler en mode projet</i></li>
+                          </ul>
+                        </li>
+                        <h5>Compétences mises en œuvre :</h5>
+                          <ul>
+                            <li><i>Analyser les objectifs et les modalités d’organisation d’un projet<i></li>
+                            <li><i>Planifier les activités</i></li>
+                            <li><i>Evaluer les indicateurs de suivi d'un projet et analyser les écarts</i></li>
+                          </ul>
+                        </p>
         </div>
       </section>
       <h3 class="ml-5 py-5" data-aos="fade-right">Site Streaming - Gestion des séries en cours</h3>

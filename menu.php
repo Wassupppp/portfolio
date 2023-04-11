@@ -17,7 +17,10 @@ echo " <nav class='navbar fixed-top navbar-expand-lg navbar-light bg-transparent
       </a>
       <div class='dropdown-menu' aria-labelledby='navbarDropdown'>
         <a class='dropdown-item' href='act_pro.php'>Professionnels</a>
-        <a class='dropdown-item' href='act_sco.php'>Scolaire</a>
+        <a class='dropdown-item' href='sitestreaming.php'>Site Streaming</a>
+        <a class='dropdown-item' href='e4.php'>Projet FastSushi</a>
+        <a class='dropdown-item' href='e4.php'>Situation XML</a>
+        <a class='dropdown-item' href='e4.php'>Situation Gestion de Sauvegarde</a>
       </div>
     </li>
   
