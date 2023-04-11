@@ -49,7 +49,7 @@
             </div>
             <div class="col-md-12">
               <ul>
-                <li><h2>Situation vécues ou observées en stage de deuxième année</h2>
+                <li><h2>Situation vécues ou observées en stage de première année</h2>
                   <ul>
                     <li><h3 class="py-3">Gestion des sauvegardes d'application</h3>
                       <ul>
@@ -83,28 +83,9 @@
                     </li>
                   </ul>
                 </li>
-              </ul>
-              <ul>
-                <li><h2 class="py-3">Situation vécues à l'école</h2>
-                <ul>
-                  <li><h3 class="py-3">Projet FastSushi</h3>
-                        <ul>
-                          <li><h5>Situation : </h5>
-                            <ul>
-                              <li><i>Création d'un site, avec gestion de base de données pour établir des commandes de sushi</i></li>
-                           </ul>
-                          </li>
-                          <li><h5>Compétences mises en œuvre :</h5>
-                            <ul>
-                              <li><i>Analyser les objectifs et les modalités d'organisation d'un projet</i></li>
-                              <li><i>Planifier les activités.</i></li>
-                              <li><i>Evaluer les indicateurs de suivi d'un projet et analyser les écarts.</i></li>
-                              <li><i>Déployer un service</i></li>
-                            </ul>
-                          </li>
-                        </ul>
-                      </li>
-                    <li><h3 class="py-3">Portfolio</h3>
+                <li><h2>Situation vécues ou observées en stage de deuxième année</h2>
+                  <ul>
+                    <li><h3 class="py-3">Installation et configuration d'un Wespci</h3>
                       <ul>
                         <li><h5>Situation : </h5>
                           <ul>
