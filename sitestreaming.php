@@ -43,6 +43,8 @@
         </div>
       </section>
       <h3 class="ml-5 py-5" data-aos="fade-right">Site Streaming - Gestion des séries en cours</h3>
+      <h3 class="mt-5" data-aos="fade-right">Planifier les activités</h3>
+      <img src="images/trello_sitestreaming.png" data-aos="fade-right" width="100%" class="mb-5"/>
       <h3 class="mt-5" data-aos="fade-right">Page de connection</h3>
           <img src="images/projetecole1/connexion.png" data-aos="fade-right" width="100%" class="mb-5"/>
           <h3 class="mt-5" data-aos="fade-right">Accueil</h3>

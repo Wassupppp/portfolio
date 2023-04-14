@@ -39,7 +39,8 @@
                             <li><i>Planifier les activités.</i></li>
                             <li><i>Evaluer les indicateurs de suivi d'un projet et analyser les écarts.</i></li>
                             <li><i>Déployer un service</i></li>
-                            <li><i>Participer à l'évolution d'un site Web exploitant les données de l'organisation</i><li>
+                            <li><i>Participer à l'évolution d'un site Web exploitant les données de l'organisation</i></li>
+                            <li><i>Gérer des sauvegardes</i></li>
                           </ul>
                         </li>
           </p>
@@ -55,12 +56,12 @@
             </div>
             <div class="col-md-12">
                 <h1 class="py-5 my-5"><span>Planifier les activités</span></h1>
-              <img src="images/fast_sushi/trello_fast_sushi.PNG" width="100%" />
+              <img style="margin-left:390px" src="images/fast_sushi/trello_fast_sushi.PNG" width="60%" />
             </div>
             <div class="col-md-12">
             <h1 class="py-5 my-5"><span>Déployer un service </span></h1>
 
-              <img src="images/fast_sushi/install_apache.png" width="100%" />
+              <img style="margin-left:390px" src="images/fast_sushi/install_apache.png" width="60%" />
             </div>
             <!-- <div class="col-md-12"> -->
               <!-- <img src="images/fast_sushi/accueil3.PNG" width="100%" /> -->
@@ -73,7 +74,12 @@
               <!-- <img src="images/fast_sushi/menu_ingredient.PNG" width="100%" /> -->
             <!-- </div> -->
             <div class="col-md-12">
-              <img src="images/fast_sushi/menu_sushi.PNG" width="100%" />
+              <img style="margin-left:390px" src="images/fast_sushi/menu_sushi.PNG" width="60%" />
+            </div>
+            <div class="col-md-12">
+            <h1 class="py-5 my-5"><span>Gérer des sauvegardes</span></h1>
+
+              <img style="margin-left:390px" src="images/git.png" width="60%" />
             </div>
             <!-- <div class="col-md-12"> -->
               <!-- <img src="images/fast_sushi/menu_dessert.PNG" width="100%" /> -->

@@ -20,7 +20,7 @@ echo " <nav class='navbar fixed-top navbar-expand-lg navbar-light bg-transparent
         <a class='dropdown-item' href='gestionnaire_sauvegarde.php'>Gestion de sauvegarde</a>
         <a class='dropdown-item' href='situation_xml.php'>Situations XML</a>
         <a class='dropdown-item' href='sitestreaming.php'>Site Streaming</a>
-        <a class='dropdown-item' href='act_sco.php'>SEO</a>
+        
       </div>
     </li>
   

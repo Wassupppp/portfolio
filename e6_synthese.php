@@ -46,9 +46,9 @@
             </div>
             <div class="col-md-12">
               <ul>
-                <li><h2>Situation vécues ou observées en stage de première année</h2>
-                  <ul>
-                    <li><h3 class="py-3">Gestion des sauvegardes d'application</h3>
+                <li>
+                  
+                    <h3 class="py-3">Gestion des sauvegardes SQL</h3>
                       <ul>
                         <li><h5>Situation : </h5>
                           <ul>
@@ -78,12 +78,11 @@
                         </li>
                       </ul>
                     </li>
-                  </ul>
+                  
                 </li>
-                <li><h2>Situation vécues ou observées en stage de deuxième année</h2>
+                <li>
                   <ul>
-                    <li>
-                      <h2 class="py-3">Portfolio</h2>
+                      <h3 class="py-3">Portfolio</h2>
                       <li>
                         <h5>Situation : </h5>
                         <ul>
@@ -132,24 +131,10 @@
                               <li><i>Planifier les activités.</i></li>
                               <li><i>Evaluer les indicateurs de suivi d'un projet et analyser les écarts.</i></li>
                               <li><i>Déployer un service</i></li>
-                              <li><i>Participer à l'évolution d'un site Web exploitant les données de l'organisation</i><li>
+                              <li><i>Participer à l'évolution d'un site Web exploitant les données de l'organisation</i></li>
+                              <li><i>Gérer des sauvegardes</i></li>
                             </ul>
-                          </li>
                         </li>
-                    <li><h3 class="py-3">SEO</h3>
-                      <ul>
-                        <li><h5>Situation : </h5>
-                          <ul>
-                            <li><i>TP SEO :</i></li>
-                          </ul>
-                        </li>
-                        <li><h5>Compétences mises en œuvre :</h5>
-                          <ul>
-                            <li><i>Référencer les services en ligne de l'organisation et mesurer leur visibilité.</i></li>
-                          </ul>
-                        </li>
-                      </ul>
-                    </li>
                   </li>
                </ul>
             </ul>

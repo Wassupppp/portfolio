@@ -445,6 +445,7 @@
       <!-------</CURSUS>--------------------------------------------------------------->
           <p>
               <a href="CV OUASS.pdf" class="btn btn-primary my-2" style="margin-left:45%">Visualisez CV</a>
+              <a href="https://www.linkedin.com/in/ouassim-khaddioui-240445222/" class="btn btn-primary my-2" style="margin-left:45%">Mon Linkedin</a>
           </p>
       <!-------<PRESENTATION ENTREPRISE>----------------------------------------------->
       <div id="presentationEntreprise">
@@ -482,16 +483,9 @@
           
           <div class="row">
             <div class="col-md-6" data-aos="fade-right"><img width="100%" src="images/unigrid/antibia_salon.jpg" class="rounded mx-auto d-block" style="margin-top:10em" /></div>
-            <!--<div class="col-md-6" data-aos="fade-left"><img width="90%" src="images/unigrid/mobyscan.jpg" class="rounded mx-auto d-block" /></div>-->
           </div>
           <h3 class="mt-5" data-aos="fade-right">MAJAUTO</h3>
           <img src="images/majauto.png" data-aos="fade-right" width="100%" class="mb-5"/>
-          <h3 class="mt-5" data-aos="fade-right">Image 2</h3>
-          <!--<img src="images/unigrid/wespcivfinal.png" data-aos="fade-right" width="100%"/>-->
-          <h3 class="mt-5" data-aos="fade-right">Image 3</h3>
-         <!-- <img src="images/unigrid/wesio5bob.png" data-aos="fade-right" width="100%" />-->
-          
-          
         </div>
       </div>
       <!-------</PRESENTATION ENTREPRISE>--------------------------------------------------------------->

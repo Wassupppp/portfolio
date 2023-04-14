@@ -42,7 +42,6 @@
           
               <!-- Grid column -->
               <div class="col-lg-5 mb-lg-0 mb-4">
-          
                 <!-- Form with header -->
                 <div class="card">
                   <div class="card-body">
@@ -80,6 +79,7 @@
                       <button class="btn btn-light-blue">Envoyer</button>
                     </div>
                   </div>
+                 
                 </div>
                 <!-- Form with header -->
           
