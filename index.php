@@ -36,7 +36,7 @@
         <div class="container">
           <div class="row justify-content-md-center text-center">
             <div class="col-lg-12">
-                <img data-aos="fade-right" class="rounded-circle" src="images/0.PNG" alt="Generic placeholder image" width="140" height="180">
+                <img data-aos="fade-right" class="rounded-circle" src="images/0.JPG" alt="Generic placeholder image" width="140" height="180">
                 <h1 class="py-5 mt-5" data-aos="fade-right"><span>Ouassim KHADDIOUI</span></h1>
                 <p class="lead"  data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">Développeur en formation d'apprentissage dans l'entreprise Antibia 
                   ce site est un Portfolio pour valider mon diplôme BTS SIO (Services Informatiques aux Organisations) option SLAM 
@@ -443,9 +443,9 @@
         </div>
       </div>
       <!-------</CURSUS>--------------------------------------------------------------->
-          <p>
-              <a href="CV OUASS.pdf" class="btn btn-primary my-2" style="margin-left:45%">Visualisez CV</a>
-              <a href="https://www.linkedin.com/in/ouassim-khaddioui-240445222/" class="btn btn-primary my-2" style="margin-left:45%">Mon Linkedin</a>
+          <p class="d-flex justify-content-center">
+              <a href="CV OUASS.pdf" class="btn btn-primary my-2" style="margin-right:5px">Visualisez CV</a>
+              <a href="https://www.linkedin.com/in/ouassim-khaddioui-240445222/" class="btn btn-primary my-2" >Mon Linkedin</a>
           </p>
       <!-------<PRESENTATION ENTREPRISE>----------------------------------------------->
       <div id="presentationEntreprise">

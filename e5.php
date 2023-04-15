@@ -52,42 +52,32 @@
           <div class="row">
             <div class="col-md-12">
               
-              <!-- <img src="images/fast_sushi/connexion_fs.PNG" width="100%" /> -->
+              
             </div>
             <div class="col-md-12">
                 <h1 class="py-5 my-5"><span>Planifier les activités</span></h1>
-              <img style="margin-left:390px" src="images/fast_sushi/trello_fast_sushi.PNG" width="60%" />
+                <div class="d-flex justify-content-center">
+                  <img src="images/fast_sushi/trello_fast_sushi.PNG" width="60%" />
+                </div>  
             </div>
             <div class="col-md-12">
-            <h1 class="py-5 my-5"><span>Déployer un service </span></h1>
-
-              <img style="margin-left:390px" src="images/fast_sushi/install_apache.png" width="60%" />
+              <h1 class="py-5 my-5"><span>Déployer un service </span></h1>
+              <div class="d-flex justify-content-center">
+                <img src="images/fast_sushi/install_apache.png" width="60%" />
+              </div>
             </div>
-            <!-- <div class="col-md-12"> -->
-              <!-- <img src="images/fast_sushi/accueil3.PNG" width="100%" /> -->
-            <!-- </div> -->
-            <!-- <div class="col-md-12"> -->
-              <!-- <img src="images/fast_sushi/inscription_fs.PNG" width="100%" /> -->
-            <!-- </div> -->
-            <!-- <div class="col-md-12"> -->
-                <!-- <h1 class="py-5 my-5"><span>Menu</span></h1> -->
-              <!-- <img src="images/fast_sushi/menu_ingredient.PNG" width="100%" /> -->
-            <!-- </div> -->
+          
             <div class="col-md-12">
-              <img style="margin-left:390px" src="images/fast_sushi/menu_sushi.PNG" width="60%" />
+              <div class="d-flex justify-content-center">
+                <img src="images/fast_sushi/menu_sushi.PNG" width="60%" />
+              </div>
             </div>
             <div class="col-md-12">
-            <h1 class="py-5 my-5"><span>Gérer des sauvegardes</span></h1>
-
-              <img style="margin-left:390px" src="images/git.png" width="60%" />
+              <h1 class="py-5 my-5"><span>Gérer des sauvegardes</span></h1>
+              <div class="d-flex justify-content-center">
+                <img src="images/git.png" width="60%" />
+              </div>
             </div>
-            <!-- <div class="col-md-12"> -->
-              <!-- <img src="images/fast_sushi/menu_dessert.PNG" width="100%" /> -->
-            <!-- </div> -->
-            <!-- <div class="col-md-12"> -->
-                <!-- <h1 class="py-5 my-5"><span>Contact</span></h1> -->
-              <!-- <img src="images/fast_sushi/contact.PNG" width="100%" /> -->
-            <!-- </div> -->
           </div>
         </div>
       </div>

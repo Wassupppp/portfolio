@@ -46,9 +46,13 @@
       </section>
       <h3 class="ml-5 py-5 text-center" data-aos="fade-right">Situation d'évolution d'un fichier XML</h3>
       <h3 class="mt-5 text-center" data-aos="fade-right">Interface de l'application</h3>
-          <img style="margin-left:650px;" src="images/interface_exportvue.PNG" data-aos="fade-right" width="30%" class="mb-5"/>
-          <h3 class="mt-5 text-center" data-aos="fade-right">Résultat :</h3>
-          <img style="margin-left:650px;" src="images/resultat_xml.PNG" data-aos="fade-right" width="30%"/>
+      <div class="d-flex justify-content-center">
+          <img  src="images/interface_exportvue.PNG" data-aos="fade-right" width="30%" class="mb-5"/>
+      </div>
+      <h3 class="mt-5 text-center" data-aos="fade-right">Résultat :</h3>
+      <div class="d-flex justify-content-center">
+          <img src="images/resultat_xml.PNG" data-aos="fade-right" width="30%"/>
+      </div>
         
     </main>
 

@@ -42,13 +42,19 @@
       </section>
       <h3 class="ml-5 py-5 text-center" data-aos="fade-right">Gestion de Sauvegarde</h3>
       <h3 class="mt-5 text-center" data-aos="fade-right"> Création .bat</h3>
-          <img style="margin-left:400px;"src="images/bat.png" data-aos="fade-right" width="70%" class="mb-5"/>
+      <div class="d-flex justify-content-center">
+          <img src="images/bat.png" data-aos="fade-right" width="70%" class="mb-5"/>
+      </div>
           <h3 class="mt-5 text-center" data-aos="fade-right">Tache planifiée</h3>
-          <img style="margin-left:550px;" src="images/tache1.png" data-aos="fade-right" width="40%"/>
-          <!-- <h3 class="mt-5" data-aos="fade-right">Serie en cours</h3> -->
-          <img style="margin-left:550px;"src="images/tahce2.png" data-aos="fade-right" width="40%" />
-          <!-- <h3 class="mt-5" data-aos="fade-right">Ajout d'une serie</h3> -->
-          <img style="margin-left:550px;"src="images/tache3.png" data-aos="fade-right" width="40%" />
+      <div class="d-flex justify-content-center">
+          <img  src="images/tache1.png" data-aos="fade-right" width="40%"/>
+      </div>
+      <div class="d-flex justify-content-center">
+          <img src="images/tahce2.png" data-aos="fade-right" width="40%" />
+      </div>
+      <div class="d-flex justify-content-center">
+          <img src="images/tache3.png" data-aos="fade-right" width="40%" />
+      </div>
 
     </main>
 

@@ -38,22 +38,30 @@
                         <h5>Compétences mises en œuvre :</h5>
                           <ul>
                             <li><i>Collecter, suivre et orienter des demandes.</i></li>
-                            <li><i>Traiter des demandes concernant les services réseau et système, applicatifs</i></li>
                             <li><i>Traiter des demandes concernant les applications </i></li>
                           </ul>
                         </li>
         </div>
       </section>
-      <h3 class="ml-5 py-5 text-center" data-aos="fade-right">Situation d'évolution d'une application</h3>
-      <h3 class="mt-5 text-center" data-aos="fade-right">Fiche d'amélioration </h3>
-          <img style="margin-left:500px;" src="images/FL_observation.PNG" data-aos="fade-right" width="50%" class="mb-5"/>
+      
+          <h3 class="ml-5 py-5 text-center" data-aos="fade-right">Situation d'évolution d'une application</h3>
+          <h3 class="mt-5 text-center" data-aos="fade-right">Fiche d'amélioration </h3>
+          <div class="d-flex justify-content-center">
+            <img src="images/FL_observation.PNG" data-aos="fade-right" width="50%" class="mb-5"/>
+          </div>
           <h3 class="mt-5 text-center" data-aos="fade-right">Application RH </h3>
-          <img style="margin-left:700px;" src="images/observation2.PNG" data-aos="fade-right" width="30%"/>
+          <div class="d-flex justify-content-center">
+            <img src="images/observation2.PNG" data-aos="fade-right" width="30%"/>
+          </div>
           <h3 class="mt-5 text-center" data-aos="fade-right">Ajout d'un filtre</h3>
-          <img style="margin-left:700px;" src="images/avancement_automatique.PNG" data-aos="fade-right" width="30%"/>
+          <div class="d-flex justify-content-center">
+            <img src="images/avancement_automatique.PNG" data-aos="fade-right" width="30%"/>
+          </div>
           <h3 class="mt-5 text-center" data-aos="fade-right">Resultat</h3>
-          <img style="margin-left:350px;" src="images/resultat.PNG" data-aos="fade-right" width="70%"/>
-        
+          <div class="d-flex justify-content-center">
+            <img  src="images/resultat.PNG" data-aos="fade-right" width="70%"/>
+          </div>
+      
     </main>
 
     <footer>
