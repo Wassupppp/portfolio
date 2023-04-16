@@ -38,10 +38,7 @@
             <div class="col-lg-12">
                 <img data-aos="fade-right" class="rounded-circle" src="images/0.JPG" alt="Generic placeholder image" width="140" height="180">
                 <h1 class="py-5 mt-5" data-aos="fade-right"><span>Ouassim KHADDIOUI</span></h1>
-                <p class="lead"  data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">Développeur en formation d'apprentissage dans l'entreprise Antibia 
-                  ce site est un Portfolio pour valider mon diplôme BTS SIO (Services Informatiques aux Organisations) option SLAM 
-                  (Solutions Logicielles et Applications Métiers). Il regroupe mes différents projets ou tâches professionnels 
-                  et personnels que j'ai effectué au cours de mon apprentissage dans le développements.
+                <p class="lead"  data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">Je suis actuellement en formation d'apprentissage en tant que développeur dans l'entreprise Antibia. Ce site est un portfolio qui me permet de valider mon diplôme de BTS SIO (Services Informatiques aux Organisations) avec l'option SLAM (Solutions Logicielles et Applications Métiers). Il regroupe les différents projets ou tâches professionnels et personnels que j'ai réalisés au cours de mon apprentissage en développement.
                 </p>
               </div>
             </div>
@@ -57,22 +54,19 @@
           <div class="row">
             <div class="col-lg-12" data-aos="fade-up">
               <p>
-                Le Brevet de Technicien Supérieur (BTS) Services Informatiques aux Organisations (SIO) s'adresse à ceux qui souhaitent se former en deux ans 
-              aux métiers d'admnistrateur réseau (option SISR) ou de développeur pour intégrer directement le marché du travail ou continuer des études dans le domaine de l'informatique.
+                Le Brevet de Technicien Supérieur (BTS) Services Informatiques aux Organisations (SIO) s'adresse à ceux qui souhaitent se former en deux ans aux métiers d'administrateur réseau (option SISR) ou de développeur afin d'intégrer directement le marché du travail ou de poursuivre des études dans le domaine de l'informatique.
               </p>
-              <p>Au sein de NEXTECH situé dans la ville de Pertuis, ce BTS est sous forme d'alternance qui nous demande alors d'intégrer une entreprise pour être accepter.
-                L'alternance désigne un système de formation au cours duquel l'étudiant alterne entre une formation théorique dans le centre de formation durant une semaine et l'autre 
-                semaine une expérience professionnelle en entreprise.
+              <p>Au sein de NEXTECH, situé dans la ville de Pertuis, ce BTS se déroule sous forme d'alternance, ce qui nous demande d'intégrer une entreprise pour être accepté. L'alternance désigne un système de formation dans lequel l'étudiant alterne entre une formation théorique dans un centre de formation pendant une semaine, puis une expérience professionnelle en entreprise la semaine suivante.
               </p>
               <div class="text-center">
                 <img id="cfai84" src="images/cfai/cfai84.jpg" data-aos="fade-right"/>
               </div>
-              <p data-aos="fade-up">L'option SLAM permet de suivre l'ensemble du cycle de vie des applications :</p>
+              <p data-aos="fade-up">L'option SLAM permet de suivre l'ensemble du cycle de vie des applications, comprenant les étapes suivantes :</p>
               <ul data-aos="fade-up">
-                <li>Analyser les besoins des utilisateurs finaux</li>
-                <li>Rechercher et choisir une solution adaptée</li>
-                <li>Concevoir et développer des applications (génie logiciel)</li>
-                <li>Assurer la maintenance des programmes qui garantissent le bon fonctionnement de ces applications</li>
+                <li>Analyser les besoins des utilisateurs finaux.</li>
+                <li>Rechercher et choisir une solution adaptée.</li>
+                <li>Concevoir et développer des applications.</li>
+                <li>Assurer la maintenance des programmes pour garantir le bon fonctionnement de ces applications.</li>
               </ul>
               <h2 id="btssio-title" data-aos="fade-right">L'examen du BTS SIO</h2>
               <table class="table table-hover" data-aos="fade-up">
@@ -458,8 +452,7 @@
             </div>
             <div class="col-md-8 mt-3">
               <p>
-               Editeur de logiciel de services d'incendie et de secours, Antibia vous propose l'ensemble des services pour gérer vos services de pompier.
-              </p>
+              Antibia est un éditeur de logiciels de services d'incendie et de secours qui vous propose une gamme complète de services pour gérer vos services de pompiers.              </p>
             </div>
             <div class="col-md-12">
               <h4 class="subtitle-situ-pro py-3">Activité de l'entreprise</h4>
@@ -473,15 +466,18 @@
           <img width="100%" data-aos="fade-right" src="images/unigrid/antibia_carac.jpg" class="rounded mx-auto d-block" />
           <h2 class="ml-5 py-5" data-aos="fade-right">Mon activité en entreprise</h2>
           <ul data-aos="fade-right">              
-            <li>Installation du Logiciel MAJAUTO chez tout les SDIS et assurer la maintenance de celui-ci</li>
-            <li>Maintenance du Module RH -> Correction de bug (Résolution des fiches de liaison)<br>
-                                         -> Developpement de fonctionnalités a la demande du SDIS<br>
-                                         -> Conception de script afin de faciliter l'insertion en masse</li>
+            <li>Installation du logiciel MAJAUTO dans tous les SDIS et assurer sa maintenance.</li>
+            <li>Maintenance du Module RH</li>
+              <ul>
+                <li> Correction de bugs (résolution des fiches de liaison) </li>
+                <li> Développement de fonctionnalités sur demande du SDIS</li>
+                <li> Conception de scripts pour faciliter l'insertion en masse.</Li>
+            </ul>
           </ul>
           
-          <h3 class="ml-5 py-5" data-aos="fade-right">Antibia</h3>
           
           <div class="row">
+          <h3 class="ml-5 py-5" data-aos="fade-right">Antibia</h3>
             <div class="col-md-6" data-aos="fade-right"><img width="100%" src="images/unigrid/antibia_salon.jpg" class="rounded mx-auto d-block" style="margin-top:10em" /></div>
           </div>
           <h3 class="mt-5" data-aos="fade-right">MAJAUTO</h3>

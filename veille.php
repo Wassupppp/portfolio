@@ -36,8 +36,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-12 text-center">
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxND5yi-amKRJUhuB3tQrZNT4gwIo9bOc3g7NwxQYIohvA064PpaKe4Kq5qk8qLLHNXltXwa4FDT1v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-            </div>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxND5yi-amKRJUhuB3tQrZNT4gwIo9bOc3g7NwxQYIohvA064PpaKe4Kq5qk8qLLHNXltXwa4FDT1v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>            </div>
           </div>
         </div>
       </div>

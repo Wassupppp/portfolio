@@ -51,38 +51,40 @@
                     </div>
                     <p class="dark-grey-text">Je vous répondrez dans les plus bref délais</p>
                     <!-- Body -->
-                    <div class="md-form">
-                      <i class="fa fa-user prefix grey-text">
-                        <label for="form-name">Votre nom</label>
-                      </i>
-                      <input type="text" id="form-name" class="form-control">
-                    </div>
-                    <div class="md-form">
-                      <i class="fa fa-envelope prefix grey-text">
-                          <label for="form-email">Votre e-mail</label>
-                      </i>
-                      <input type="text" id="form-email" class="form-control">
-                    </div>
-                    <div class="md-form">
-                      <i class="fa fa-tag prefix grey-text">
-                        <label for="form-Subject">Objet</label>
-                      </i>
-                      <input type="text" id="form-Subject" class="form-control">
-                    </div>
-                    <div class="md-form">
-                      <i class="fas fa-pencil-alt">
-                        <label for="form-text">Message</label>
-                      </i>
-                      <textarea type="text" id="form-text" class="form-control md-textarea" rows="3"></textarea>
-                    </div>
-                    <div class="text-center">
-                      <button class="btn btn-light-blue">Envoyer</button>
-                    </div>
+                    <form method="POST">
+                        <div class="md-form">
+                          <i class="fa fa-user prefix grey-text">
+                            <label for="form-name" >Votre nom</label>
+                          </i>
+                          <input type="text" id="form-name" class="form-control" name="nom" placeholder="Entrez votre nom" value="<?php if(isset($_POST['nom'])){echo $_POST['nom'];} ?>" required>
+                        </div>
+                        <div class="md-form">
+                          <i class="fa fa-envelope prefix grey-text">
+                              <label for="form-email">Votre e-mail</label>
+                          </i>
+                          <input type="text" id="form-email" class="form-control" name="email" placeholder="Entrez votre email" value="<?php if(isset($_POST['email'])){echo $_POST['email'];} ?>" required>
+                        </div>
+                        <div class="md-form">
+                          <i class="fa fa-tag prefix grey-text">
+                            <label for="form-Subject">Objet</label>
+                          </i>
+                          <input type="text" id="form-Subject" class="form-control" name="objet" placeholder="Entrez l'objet de votre demande" value="<?php if(isset($_POST['objet'])){echo $_POST['objet'];} ?>" required>
+                        </div>
+                        <div class="md-form">
+                          <i class="fas fa-pencil-alt">
+                            <label for="form-text">Message</label>
+                          </i>
+                          <textarea type="text" id="form-text" class="form-control md-textarea" name="message" rows="3" placeholder="Entrez votre message" value="<?php if(isset($_POST['message'])){echo $_POST['message'];} ?>" required ></textarea>
+                        </div>
+                        <div class="text-center">
+                          <input type="hidden" name="validation" value="oui" >
+                          <button class="btn btn-light-blue">Envoyer</button>
+                        </div>
+                      </form>
                   </div>
                  
                 </div>
                 <!-- Form with header -->
-          
               </div>
               <!-- Grid column -->
           
@@ -116,15 +118,32 @@
                     <p>ouassim.khaddioui@gmail.com</p>
                   </div>
                 </div>
-          
               </div>
-              <!-- Grid column -->
-          
             </div>
-            <!-- Grid row -->
-          
         </div>
       </div>
+      <?php
+						if (isset($_POST['validation'])) {
+							$entete  = 'MIME-Version: 1.0' . "\r\n";
+							$entete .= 'Content-type: text/html; charset=utf-8' . "\r\n";
+							$entete .= 'From: ' . $_POST['email'] . "\r\n";
+							$entete .= 'Reply-to: ' . $_POST['email'];
+
+							$message = '<h1>Message envoyé depuis le portfolio - Khaddioui Ouassim</h1><p>';
+							$message_retour = '<b>Email : </b>' . $_POST['email'] . '<br>
+							<b>Nom : </b>' . $_POST['nom'] . '<br>
+							<b>Objet : </b>' . $_POST['objet'] . '<br>
+							<b>Message : </b>' . htmlspecialchars($_POST['message']) ;
+							$message = $message . $message_retour . '</p>' ;
+
+							$retour = mail('ouassim.postbac@gmail.com', 'Envoi depuis page Contact', $message, $entete);
+							if($retour)
+								echo '<div class="card m-3 alert-success" role="alert" >
+                <p class="card-text m-3">Merci pour votre message ! Nous avons bien reçu votre demande et nous y répondrons dans les plus brefs délais.</p>
+                </div>';
+
+						}
+						?>
 
     </main>
 

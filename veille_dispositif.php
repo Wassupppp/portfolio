@@ -90,7 +90,7 @@ include("php/password_protect.php"); ?>
               <p>Elle permet en générale de :</p>
               <ul>
                 <li>Suivre les évolutions techniques</li>
-                <li> Dégager de nouveaux procédés ou matériaux de substitution</li>
+                
                 <li>Anticiper sur la concurrence: on peut ainsi rester à la pointe du 
                   marché en acquérant toutes les nouvelles technologies qui permettent de disposer d’un avantage concurrentiel.</li>
                 <li> Diminuer les coûts de production</li>
@@ -118,7 +118,7 @@ include("php/password_protect.php"); ?>
                 à chaque notification).
               </p>
               <h5 class="lasttile-situ-pro">Extension Google chrome : Feeder</h5>
-              <p>Lecteur de flux RSS sous forme d'extension google donc très simple d'usage. J'ai combiné cet outils avec Google Alert me permettant de recensser pour les articles par catégories.</p>
+              <p>Lecteur de flux RSS sous forme d'extension Google donc très simple d'usage. J'ai combiné cet outil avec Google Alerts me permettant de recenser les articles par catégories.</p>
               <img width="40%" src="images/veille/feeder_ex.PNG" class="rounded mx-auto d-block"/>
 
               <h5 class="lasttile-situ-pro">Twitter</h5>
